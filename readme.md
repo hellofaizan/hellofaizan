@@ -18,7 +18,7 @@ const AboutMe = {
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,nodejs,css,html,discord,androidstudio,bots,flutter,gamemakerstudio,ai,java,codepen,kotlin,react,nextjs,mysql,firebase,mongodb,figma,vscode,git" />
+    <img src="https://skillicons.dev/icons?i=js,nodejs,html,discord,androidstudio,bots,flutter,java,kotlin,react,mysql,firebase,mongodb," />
   </a>
 </p>
 
