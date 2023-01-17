@@ -26,7 +26,7 @@ const AboutMe = {
 
 - [Github](https://github.com/hellofaizan)
 - [Instagram](https://instagram.com/hellofaizan)
-- [Discord <p class="text-sm font-medium text-indigo-100">Arunava#1288</p>](https://instagram.com/hellofaizan)
+- [Discord](https://discord.com/users/890232380265222215)
 
 ## Discord Status 💻
 
