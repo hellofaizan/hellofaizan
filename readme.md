@@ -33,7 +33,6 @@ const AboutMe = {
 <a href="https://discord.com/users/890232380265222215">
      <img src="https://lanyard.cnrad.dev/api/890232380265222215" width="400" height="200" />
 </a>
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=zfu9cur8fpnw6oc4q8vm55op6&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&bar_color=fff700&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 <details>
   <summary>
     <h2> Github Stats ⚡ </h2>
