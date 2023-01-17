@@ -45,6 +45,6 @@ const AboutMe = {
 </a></details>
 <hr />
 <div>
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=itsag.itag&" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=hellofaizan.hellofaizan&" />
 ©️ Mohammad Faizan | Design: <a href="https://github.com/its-ag/">Arunava</a>
 </div>
