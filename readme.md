@@ -17,7 +17,7 @@ const AboutMe = {
 ## Skills 🚀
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://discord.gg/EHthxHRUmr">
     <img src="https://skillicons.dev/icons?i=js,nodejs,html,discord,androidstudio,bots,flutter,java,kotlin,react,mysql,firebase,mongodb," />
   </a>
 </p>
