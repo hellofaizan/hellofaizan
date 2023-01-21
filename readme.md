@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I am <b> <a href="https://www.instagram.com/curiousfaizan/"> Faizan</a> </b>  <img src="https://www.emoji.co.uk/files/apple-emojis/smileys-people-ios/90-waving-hand-sign.png" width="30px"></h1>
+<h1 align="center">[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)</h1>
 
 ```js
 const AboutMe = {
