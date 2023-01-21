@@ -11,7 +11,7 @@ const AboutMe = {
 }
 ```
 
-#### [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+#### [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+Everyone+It's+me+Faizan;Second+line+of+text)](https://git.io/typing-svg)
     
 
 ## Skills 🚀
