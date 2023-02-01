@@ -35,7 +35,7 @@ const AboutMe = {
 </a>
 <br>
 <a href="https://discord.gg/EHthxHRUmr">
-     <img src="https://invidget.switchblade.xyz/EHthxHRUmr" width="400" height="200" />
+     <img src="https://invidget.switchblade.xyz/EHthxHRUmr" width="400" height="100" />
 </a>
 <details>
   <summary>
