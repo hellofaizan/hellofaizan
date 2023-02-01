@@ -46,7 +46,11 @@ const AboutMe = {
 </a>
 <a href="https://github.com/hellofaizan">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hellofaizan&amp;show_icons=true&amp;theme=radical" height="160" witdh="480" />
-</a></details>
+</a>
+<a href="https://github.com/hellofaizan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hellofaizan&layout=compact&theme=github_dark" height="160" witdh="480" />
+</a>
+</details>
 <hr />
 <div>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=hellofaizan.hellofaizan&" />
