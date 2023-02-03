@@ -25,7 +25,7 @@ const AboutMe = {
 ## Find me around the web 🌐
 
 - [Github](https://github.com/hellofaizan)
-- [Instagram](https://instagram.com/hellofaizan)
+- [Instagram](https://instagram.com/curiousfaizan)
 - [Discord](https://discord.com/users/890232380265222215)
 
 ## Discord Status 💻
