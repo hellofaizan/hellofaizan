@@ -54,5 +54,5 @@ const AboutMe = {
 <hr />
 <div>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=hellofaizan.hellofaizan&" />
-©️ Mohammad Faizan | Design: <a href="https://github.com/its-ag/">Arunava</a>
+©️ Mohammad Faizan | 2022
 </div>
