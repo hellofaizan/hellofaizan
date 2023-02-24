@@ -37,6 +37,10 @@ const AboutMe = {
 <a href="https://discord.gg/EHthxHRUmr">
      <img src="https://invidget.switchblade.xyz/EHthxHRUmr" width="398" height="100" />
 </a>
+
+## 🏆GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=hellofaizan&theme=nord&no-frame=true&no-bg=false&margin-w=4)
+
 <details>
   <summary>
     <h2> Github Stats ⚡ </h2>
@@ -50,10 +54,11 @@ const AboutMe = {
 <a href="https://github.com/hellofaizan">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hellofaizan&layout=compact&theme=github_dark" height="160" witdh="480" />
 </a>
-## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=hellofaizan&theme=nord&no-frame=true&no-bg=false&margin-w=4)
 </details>
 <hr />
+---
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 <div>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=hellofaizan.hellofaizan&" />
 ©️ Mohammad Faizan | 2022
