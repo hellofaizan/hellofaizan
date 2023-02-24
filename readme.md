@@ -55,7 +55,7 @@ const AboutMe = {
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hellofaizan&amp;show_icons=true&amp;theme=radical" height="160" witdh="480" />
 </a>
 <a href="https://github.com/hellofaizan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hellofaizan&layout=compact&theme=onedark" height="160" witdh="480" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hellofaizan&layout=compact&theme=radical" height="160" witdh="480" />
 </a>
 </details>
 <hr />
