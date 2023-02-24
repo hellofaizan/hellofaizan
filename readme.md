@@ -42,7 +42,7 @@ const AboutMe = {
 ![](https://github-profile-trophy.vercel.app/?username=hellofaizan&theme=nord&no-frame=true&no-bg=false&margin-w=4)
 
 ## ✍️Random Dev Quote
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal?theme=monokai"/>
 
 <details>
   <summary>
