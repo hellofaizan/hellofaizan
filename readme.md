@@ -22,7 +22,7 @@ const AboutMe = {
   </a>
 </p>
 
-## Find me around the web 🌐
+## Find me around the 🌐
 
 - [Github](https://github.com/hellofaizan)
 - [Instagram](https://instagram.com/curiousfaizan)
