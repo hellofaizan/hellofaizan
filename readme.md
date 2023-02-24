@@ -41,6 +41,9 @@ const AboutMe = {
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=hellofaizan&theme=nord&no-frame=true&no-bg=false&margin-w=4)
 
+### ✍️Random Dev Quote
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+
 <details>
   <summary>
     <h2> Github Stats ⚡ </h2>
@@ -57,7 +60,6 @@ const AboutMe = {
 </details>
 <hr />
 <div>
-## ✍️Random Dev Quote
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=hellofaizan.hellofaizan&" />
 ©️ Mohammad Faizan | 2022
 </div>
