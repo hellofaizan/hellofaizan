@@ -56,9 +56,8 @@ const AboutMe = {
 </a>
 </details>
 <hr />
----
 ### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+[![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)]
 <div>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=hellofaizan.hellofaizan&" />
 ©️ Mohammad Faizan | 2022
