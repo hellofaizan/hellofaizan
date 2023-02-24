@@ -50,6 +50,8 @@ const AboutMe = {
 <a href="https://github.com/hellofaizan">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hellofaizan&layout=compact&theme=github_dark" height="160" witdh="480" />
 </a>
+## 🏆GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=hellofaizan&theme=nord&no-frame=true&no-bg=false&margin-w=4)
 </details>
 <hr />
 <div>
