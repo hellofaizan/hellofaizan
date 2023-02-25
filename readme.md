@@ -18,7 +18,7 @@ const AboutMe = {
 
 <p align="center">
   <a href="https://discord.gg/EHthxHRUmr">
-    <img src="https://skillicons.dev/icons?i=next,js,kotlin,typescript,discord,androidstudio,bots,flutter,java,nodejs,react,mysql,firebase,mongodb," />
+    <img src="https://skillicons.dev/icons?i=next,kotlin,js,typescript,discord,androidstudio,bots,flutter,java,nodejs,react,mysql,firebase,mongodb," />
   </a>
 </p>
 
