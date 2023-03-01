@@ -38,9 +38,6 @@ const AboutMe = {
      <img src="https://invidget.switchblade.xyz/EHthxHRUmr" width="398" height="100" />
 </a>
 
-## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=hellofaizan&theme=nord&no-frame=true&no-bg=false&margin-w=4)
-
 ## ✍️Random Dev Quote
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai"/>
 
