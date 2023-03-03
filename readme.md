@@ -39,7 +39,7 @@ const AboutMe = {
 </a>
 
 ## ✍️Random Dev Quote
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
 
 <details>
   <summary>
