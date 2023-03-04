@@ -34,8 +34,8 @@ const AboutMe = {
      <img src="https://lanyard.cnrad.dev/api/890232380265222215?idleMessage=Just%20Chillin..." width="400" height="200" />
 </a>
 <br>
-<a href="https://discord.gg/EHthxHRUmr">
-     <img src="https://invidget.switchblade.xyz/EHthxHRUmr" width="398" height="100" />
+<a href="[https://discord.gg/EHthxHRUmr](https://discord.gg/vUHMxPvege)">
+     <img src="https://invidget.switchblade.xyz/vUHMxPvege" width="398" height="100" />
 </a>
 
 ## ✍️Random Dev Quote
