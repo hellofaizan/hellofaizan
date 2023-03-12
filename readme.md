@@ -11,9 +11,6 @@ const AboutMe = {
 }
 ```
 
-#### [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+Everyone+It's+me+Faizan;I+love+Coding+and+programming;)](https://hellofaizan.me)
-    
-
 ## Skills 🚀
 
 <p align="center">
