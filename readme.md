@@ -35,6 +35,8 @@ const AboutMe = {
      <img src="https://invidget.switchblade.xyz/vUHMxPvege" width="398" height="100" />
 </a>
 
+## Stats
+
 <details>
   <summary>⚡ Github Stats</summary>
   <br>
