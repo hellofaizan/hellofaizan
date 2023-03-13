@@ -35,23 +35,30 @@ const AboutMe = {
      <img src="https://invidget.switchblade.xyz/vUHMxPvege" width="398" height="100" />
 </a>
 
-## ✍️Random Dev Quote
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+<details>
+  <summary>⚡ Github Stats</summary>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=hellofaizan&show_icons=true&theme=dark&hide_border=true" alt="HelloFaizan's Github Stats" />
+</details>
 
 <details>
-  <summary>
-    <h2> Github Stats ⚡ </h2>
-  </summary>
-<a href="https://github.com/hellofaizan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hellofaizan&amp;show_icons=true&amp;theme=radical" height="160"  witdh="480" />
-</a>
-<a href="https://github.com/hellofaizan">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hellofaizan&amp;show_icons=true&amp;theme=radical" height="160" witdh="480" />
-</a>
-<a href="https://github.com/hellofaizan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hellofaizan&layout=compact&theme=tokyonight" height="160" witdh="480" />
-</a>
+  <summary>💹 Github Activity Graph</summary>
+  <br>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=hellofaizan&theme=react-dark" alt="Oops, something went wrong with Activity Graph" />
 </details>
+
+<details>
+  <summary>🔥 GitHub Streak Stats</summary>
+  <br>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=hellofaizan&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
+</details>
+
+<details>
+  <summary>🖱️ Most used languages</summary>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hellofaizan&show_icons=true&locale=en&layout=compact&theme=dark" alt="HelloFaizan's Github Activity Graph" />
+</details>
+
 <hr />
 <div>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=hellofaizan.hellofaizan&" />
