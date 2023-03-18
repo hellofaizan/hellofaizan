@@ -1,7 +1,7 @@
 Hi👋 My name is <a href="https://hellofaizan.me">Faizan</a>
 ==============================================================================================================================
 
-Tech Enthusiast. Football pasionate. I love to make people laugh
+Tech Enthusiast. I love to make people laugh. Liberal Person
 ---------------
 
 I have been learning Coding since 2019 during the start of COVID-19 lockdown. Actually I got my first laptop during those days because of Online classes 😃. I shifted to full time programming after that.
@@ -11,13 +11,7 @@ I have been learning Coding since 2019 during the start of COVID-19 lockdown. Ac
 * ✉  You can contact me at [faizancurious@gmail.com](mailto:faizancurious@gmail.com)
 * 🚀  I'm currently working on [Open Source](http://GitHub.com/hellofaizan)
 * 🧠  I'm learning Next Js, Node Js, Kotlin
-* 🤝  I'm open to collaborating on intresting projects
-
-<a href="https://www.github.com/hellofaizan" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/hellofaizan?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/Hellofaizandev" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/Hellofaizandev?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
-
+* 🤝  I'm open to collaborating on intresting projects
 
 ```js
 const AboutMe = {
@@ -79,6 +73,9 @@ const AboutMe = {
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hellofaizan&show_icons=true&locale=en&layout=compact&theme=dark" alt="HelloFaizan's Github Activity Graph" />
 </details>
+
+<a href="https://www.github.com/hellofaizan" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/hellofaizan?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 <hr />
 <div>
