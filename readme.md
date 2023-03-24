@@ -1,3 +1,6 @@
+[![Discord](https://img.shields.io/discord/988670044152168518.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/vUHMxPvege)
+<a href="https://www.youtube.com/c/hellofaizan"><img src="https://img.shields.io/youtube/channel/subscribers/UCjG4tRRoqiRjaDy20pgwjuA?style=social" alt="Youtube" /></a>
+
 Hi👋 My name is <a href="https://hellofaizan.me">Faizan</a>
 ==============================================================================================================================
 
@@ -11,7 +14,9 @@ I have been learning Coding since 2019 during the start of COVID-19 lockdown. Ac
 * ✉  You can contact me at [faizancurious@gmail.com](mailto:faizancurious@gmail.com)
 * 🚀  I'm currently working on [Open Source](http://GitHub.com/hellofaizan)
 * 🧠  I'm learning Next Js, Node Js, Kotlin
-* 🤝  I'm open to collaborating on intresting projects
+* 🤝  I'm open to collaborating on intresting projects
+
+
 
 ```js
 const AboutMe = {
