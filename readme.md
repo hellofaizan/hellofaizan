@@ -4,10 +4,7 @@
 <p align="center">IN THE NAME OF ALLAH</p>
 
 Hi👋 My name is <a href="https://hellofaizan.me">Faizan</a>
-==============================================================================================================================
-
-Tech Enthusiast. I love to make people laugh. Liberal Person
----------------
+=============================================================================================================================
 
 I have been learning Coding since 2019 during the start of COVID-19 lockdown. Actually I got my first laptop during those days because of Online classes 😃. I shifted to full time programming after that.
 
