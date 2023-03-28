@@ -2,7 +2,7 @@
 <a href="https://www.youtube.com/c/hellofaizan"><img src="https://img.shields.io/youtube/channel/subscribers/UCjG4tRRoqiRjaDy20pgwjuA?style=social" alt="Youtube" /></a>
 
 <p align="center">IN THE NAME OF ALLAH</p>
----
+---------------
 
 Hi👋 My name is <a href="https://hellofaizan.me">Faizan</a>
 ==============================================================================================================================
