@@ -26,7 +26,7 @@ const AboutMe = {
    "Coding", "Chess", "Coding", "Learning New Stuff", "Gaming" 
   ],
   About: "Chess♟ Coding☕  Football⚽
-I do random stuff just to make other person laugh"
+          I do random stuff just to make other person laugh"
 }
 ```
 
