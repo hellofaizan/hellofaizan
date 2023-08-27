@@ -24,7 +24,9 @@ const AboutMe = {
   Pronouns: ["He", "Him"],
   Hobbies: [
    "Coding", "Chess", "Coding", "Learning New Stuff", "Gaming" 
-  ]
+  ],
+  About: "Chess♟ Coding☕  Football⚽
+I do random stuff just to make other person laugh"
 }
 ```
 
