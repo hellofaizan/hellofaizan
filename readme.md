@@ -61,13 +61,7 @@ const AboutMe = {
   <summary>⚡ Github Stats</summary>
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=hellofaizan&show_icons=true&theme=dark&hide_border=true" alt="HelloFaizan's Github Stats" />
-</details>
-
-<details>
-  <summary>💹 Github Activity Graph</summary>
-  <br>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=hellofaizan&theme=react-dark" alt="Oops, something went wrong with Activity Graph" />
-</details>
+</details>
 
 <details>
   <summary>🔥 GitHub Streak Stats</summary>
@@ -79,10 +73,7 @@ const AboutMe = {
   <summary>🖱️ Most used languages</summary>
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hellofaizan&show_icons=true&locale=en&layout=compact&theme=dark" alt="HelloFaizan's Github Activity Graph" />
-</details>
-
-<a href="https://www.github.com/hellofaizan" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/hellofaizan?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+</details>
 
 <hr />
 <div>
