@@ -10,9 +10,9 @@ I have been learning Coding since 2019 during the start of COVID-19 lockdown. Ac
 
 * 🌍  I'm based in Kashmir
 * 🖥  See my portfolio at [My Portfolio](http://hellofaizan.me)
-* 📨  You can contact me at [faizancurious@gmail.com](mailto:faizancurious@gmail.com)
-* 🚀  I'm currently working on [Open Source](http://GitHub.com/hellofaizan)
-* 🧠  I'm learning Next Js, Node Js, Kotlin
+* 📨  You can contact me at [faizancurious@gmail.com](https://HelloFaizan.me/contact)
+* 🚀  I'm currently working on [Open Source](http://GitHub.com/Youth-Icon)
+* 🧠  I'm learning Next Js, TypeScript, Kotlin
 * 🤝  I'm open to collaborating on intresting projects
 
 
