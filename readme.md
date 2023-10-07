@@ -31,7 +31,7 @@ const AboutMe = {
 ## Skills 🚀
 
 <p align="center">
-  <a href="https://discord.gg/EHthxHRUmr">
+  <a href="https://discord.gg/vUHMxPvege">
     <img src="https://skillicons.dev/icons?i=next,kotlin,js,typescript,discord,androidstudio,bots,flutter,java,nodejs,react,mysql,firebase,mongodb,postgresql" />
   </a>
 </p>
@@ -59,7 +59,8 @@ const AboutMe = {
   <summary>⚡ Github Stats</summary>
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=hellofaizan&show_icons=true&theme=dark&hide_border=true" alt="HelloFaizan's Github Stats" />
-</details>
+</details>
+
 
 <details>
   <summary>🔥 GitHub Streak Stats</summary>
@@ -71,7 +72,8 @@ const AboutMe = {
   <summary>🖱️ Most used languages</summary>
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hellofaizan&show_icons=true&locale=en&layout=compact&theme=dark" alt="HelloFaizan's Github Activity Graph" />
-</details>
+</details>
+
 
 <hr />
 <div>
