@@ -1,7 +1,7 @@
 [![Discord](https://img.shields.io/discord/988670044152168518.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/vUHMxPvege)
 <a href="https://www.youtube.com/c/hellofaizan"><img src="https://img.shields.io/youtube/channel/subscribers/UCjG4tRRoqiRjaDy20pgwjuA?style=social" alt="Youtube" /></a>
 
-[![ReadMeSupportPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg)](https://github.com/Safouene1/support-palestine-banner)
+[![ReadMeSupportPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg)](https://twitter.com/search?q=%23FreePalestine)
 
 Hi👋 My name is <a href="https://hellofaizan.me">Faizan</a>
 =============================================================================================================================
