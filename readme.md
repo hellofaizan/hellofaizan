@@ -9,7 +9,7 @@ Hi👋 My name is <a href="https://hellofaizan.me">Faizan</a>
 I have been learning Coding since 2019 during the start of COVID-19 lockdown. Actually I got my first laptop during those days because of Online classes 😃. I shifted to full time programming after that.
 
 * 🌍  I'm based in Kashmir
-* 🖥  See my portfolio at [My Portfolio](http://hellofaizan.me)
+* 🖥  See my portfolio at [My Portfolio](http://hellofaizan.tech)
 * 📨  You can contact me at [faizancurious@gmail.com](https://HelloFaizan.me/contact)
 * 🚀  I'm currently working on [Open Source](http://GitHub.com/Youth-Icon)
 * 🧠  I'm learning Next Js, TypeScript, Kotlin
