@@ -41,7 +41,7 @@ const AboutMe = {
 
 ## Find me around the 🌐
 
-- [Website - hellofaizan.me](https://hellofaizan.me)
+- [Website - hellofaizan.me](https://v2.hellofaizan.tech)
 - [Instagram - hellofaizan](https://instagram.com/hellofaizaan)
 - [Discord - HelloFaizan#2746](https://discord.com/users/890232380265222215)
 - [Twitter (𝕏) - HelloFaizaan](https://x.com/hellofaizaan)
