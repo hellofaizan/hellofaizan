@@ -4,7 +4,7 @@
 
 [![ReadMeSupportPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg)](https://twitter.com/search?q=%23FreePalestine)
 
-Hi👋 My name is <a href="https://hellofaizan.me">Faizan</a>
+Hi👋 My name is <a href="https://hellofaizan.tech">Faizan</a>
 =============================================================================================================================
 
 I have been learning Coding since 2019 during the start of COVID-19 lockdown. Actually I got my first laptop during those days because of Online classes 😃. I shifted to full time programming after that.
