@@ -19,7 +19,7 @@ I have been learning Coding since 2019 during the start of COVID-19 lockdown. Ac
 ```js
 const AboutMe = {
   Name: "Mohammad Faizan",
-  Age: 17,
+  Age: 18,
   Pronouns: ["He", "Him"],
   Hobbies: [
    "Coding", "Chess", "Coding", "Learning New Stuff", "Gaming" 
@@ -43,16 +43,6 @@ const AboutMe = {
 - [Instagram - hellofaizan](https://instagram.com/hellofaizaan)
 - [Discord - HelloFaizan#2746](https://discord.com/users/890232380265222215)
 - [Twitter (𝕏) - HelloFaizaan](https://x.com/hellofaizaan)
-
-## Discord Status 💻
-
-<a href="https://discord.com/users/890232380265222215">
-     <img src="https://lanyard.cnrad.dev/api/890232380265222215?idleMessage=Just%20Chillin..." width="400" height="200" />
-</a>
-<br>
-<a href="https://discord.gg/vUHMxPvege">
-     <img src="https://invidget.switchblade.xyz/vUHMxPvege" width="398" height="100" />
-</a>
 
 ## Stats
 
