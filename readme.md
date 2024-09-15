@@ -69,5 +69,5 @@ const AboutMe = {
 <hr />
 <div>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=hellofaizan.hellofaizan&" />
-©️ Mohammad Faizan | 2021
+Ceasefire Now 🕊️ | Free Palestine
 </div>
