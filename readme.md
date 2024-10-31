@@ -24,8 +24,7 @@ const AboutMe = {
   Hobbies: [
    "Coding", "Chess", "Coding", "Learning New Stuff", "Gaming" 
   ],
-  About: "Chess♟ Coding☕  Football⚽
-    I do random stuff just to make other person laugh"
+  About: "Chess♟ Coding☕  Football⚽ | Building Internet Products"
 }
 ```
 
@@ -33,7 +32,7 @@ const AboutMe = {
 
 <p align="center">
   <a href="https://discord.gg/vUHMxPvege">
-    <img src="https://skillicons.dev/icons?i=next,kotlin,js,typescript,androidstudio,flutter,java,nodejs,react,mysql,firebase,mongodb,postgresql" />
+    <img src="https://skillicons.dev/icons?i=next,kotlin,js,typescript,androidstudio,flutter,figma,blender,java,nodejs,react,mysql,python,firebase,mongodb,postgresql" />
   </a>
 </p>
 
