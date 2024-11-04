@@ -32,7 +32,7 @@ const AboutMe = {
 
 <p align="center">
   <a href="https://discord.gg/vUHMxPvege">
-    <img src="https://skillicons.dev/icons?i=next,kotlin,js,typescript,androidstudio,flutter,figma,blender,java,nodejs,react,mysql,python,firebase,mongodb,postgresql" />
+    <img src="https://skillicons.dev/icons?i=next,kotlin,js,typescript,androidstudio,flutter,figma,blender,java,react,mysql,python,firebase,mongodb,postgresql" />
   </a>
 </p>
 
