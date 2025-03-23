@@ -64,6 +64,12 @@ const AboutMe = {
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hellofaizan&show_icons=true&locale=en&layout=compact&theme=dark" alt="HelloFaizan's Github Activity Graph" />
 </details>
 
+<details>
+  <summary>🕛 Waka Time</summary>
+  <br>
+  <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=692&api_domain=hackatime.hackclub.com&theme=discord_old_blurple&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8" alt="HelloFaizan's Github Activity Graph" />
+</details>
+
 
 <hr />
 <div>
