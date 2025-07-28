@@ -1,16 +1,11 @@
-[![Discord](https://img.shields.io/discord/988670044152168518.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/vUHMxPvege)
-<a href="https://www.youtube.com/c/hellofaizan"><img src="https://img.shields.io/youtube/channel/subscribers/UCjG4tRRoqiRjaDy20pgwjuA?style=social" alt="Youtube" /></a>
-[![CodeTime Badge](https://img.shields.io/endpoint?style=flat&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D26256%26project%3D%26in=0)](https://discord.gg/QuNdFzdKMx)
-
 Hi👋I'm <a href="https://mohammadfaizan.in">Mohammad Faizan</a>
 =============================================================================================================================
 
 I have been learning Coding since 2019 during the start of COVID-19 lockdown. Actually I got my first laptop during those days because of Online classes 😃. I shifted to full time programming after that.
 
 * 🌍  I'm based in Kashmir
-* 🖥  See my portfolio at [My Portfolio](http://mohammadfaizan.in)
+* 🖥  See my portfolio at [My Portfolio](http://mohammadfaizan.com)
 * 📨  You can contact me at [faizan@mohammadfaizan.in](mailto:faizan@mohammadfaizan.in)
-* 🚀  I'm currently working on [Open Source](http://GitHub.com/Youth-Icon)
 * 🧠  I'm learning Next Js, TypeScript, Kotlin
 * 🤝  I'm open to collaborating on intresting projects
 
