@@ -5,7 +5,7 @@ I have been learning Coding since 2019 during the start of COVID-19 lockdown. Ac
 
 * 🌍  I'm based in Kashmir
 * 🖥  See my portfolio at [My Portfolio](http://mohammadfaizan.com)
-* 📨  You can contact me at [faizancurious@google.com](mailto:faizancurious@gmail.com)
+* 📨  You can contact me at [faizancurious@gmail.com](mailto:faizancurious@gmail.com)
 * 🧠  I'm learning Next Js, TypeScript, Kotlin
 * 🤝  I'm open to collaborating on intresting projects
 
@@ -64,4 +64,5 @@ const AboutMe = {
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=hellofaizan.hellofaizan&" />
 Ceasefire Now 🕊️ | Free Palestine
 </div>
+
 
