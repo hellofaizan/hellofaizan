@@ -33,7 +33,7 @@ const AboutMe = {
 
 ## Find me around the 🌐
 
-- [Website - hellofaizan.me](https://v2.hellofaizan.tech)
+- [Website - mohammadfaizan.com](https://mohammadfauzan.com)
 - [Instagram - hellofaizan](https://instagram.com/hellofaizaan)
 - [Discord - HelloFaizan#2746](https://discord.com/users/890232380265222215)
 - [Twitter (𝕏) - HelloFaizaan](https://x.com/hellofaizaan)
@@ -64,5 +64,6 @@ const AboutMe = {
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=hellofaizan.hellofaizan&" />
 Ceasefire Now 🕊️ | Free Palestine
 </div>
+
 
 
