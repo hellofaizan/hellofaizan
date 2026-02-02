@@ -1,12 +1,12 @@
-Hi👋I'm <a href="https://mohammadfaizan.in">Mohammad Faizan</a>
+Hi👋I'm <a href="https://mohammadfaizan.com">Mohammad Faizan</a>
 =============================================================================================================================
 
-I have been learning Coding since 2019 during the start of COVID-19 lockdown. Actually I got my first laptop during those days because of Online classes 😃. I shifted to full time programming after that.
+A builder a developer focused on AI, machine learning, mathematics, physics, and engineering. I love working at the intersection of code and real-world systems - experimenting with algorithms, automation, robotics, and drone tech.
 
 * 🌍  I'm based in Kashmir
 * 🖥  See my portfolio at [My Portfolio](http://mohammadfaizan.com)
 * 📨  You can contact me at [faizancurious@gmail.com](mailto:faizancurious@gmail.com)
-* 🧠  I'm learning Next Js, TypeScript, Kotlin
+* 🧠  Learning and Exploring
 * 🤝  I'm open to collaborating on intresting projects
 
 
@@ -35,8 +35,7 @@ const AboutMe = {
 
 - [Website - mohammadfaizan.com](https://mohammadfaizan.com)
 - [Instagram - hellofaizan](https://instagram.com/hellofaizaan)
-- [Discord - HelloFaizan#2746](https://discord.com/users/890232380265222215)
-- [Twitter (𝕏) - HelloFaizaan](https://x.com/hellofaizaan)
+- [Twitter (𝕏) - HelloFaizaan](https://x.com/curiousfaizaan)
 
 ## Stats
 
@@ -64,6 +63,7 @@ const AboutMe = {
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=hellofaizan.hellofaizan&" />
 Ceasefire Now 🕊️ | Free Palestine
 </div>
+
 
 
 
